@@ -1,0 +1,5 @@
+101|Budi Santoso|Teknik Informatika|Aktif
+102|Siti Aminah|Sistem Informasi|Aktif
+103|Rian Pratama|Teknik Komputer|Cuti
+104|I Wayan Astawa Putra|Teknologi Informasi|Aktif
+105|Dewi Sartika|Sistem Informasi|Aktif
